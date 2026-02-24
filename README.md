@@ -16,15 +16,22 @@ Visit my portfolio to explore my projects and work:
 # 🚀 Featured Projects
 
 ### 💎 Jewellery Billing & Inventory System
-Desktop software built with Python and Tkinter for real-world jewellery shop operations. Handles billing, stock management, customer records, and GST invoice generation.
+Desktop billing and inventory software built with Python and Tkinter for real jewellery shop operations. Handles billing, stock management, customer records, and GST invoice generation.
+
 🔗 Project Page: https://heyysaikat.in/djm.html
+
+---
 
 ### 🌐 Business Website for H2O The MultiGym
 Designed and developed a responsive business website with modern UI, optimized performance, and mobile-first design.
-🔗 Website Link: https://h2othemultigym.in/
+
+🔗 Project Page: https://h2othemultigym.in/
+
+---
 
 ### 📦 Logistics Management System
-Custom desktop system for managing logistics operations, improving workflow efficiency and record management.
+Custom logistics management desktop system to streamline operations, record tracking, and workflow efficiency.
+
 🔗 Project Page: https://heyysaikat.in/ae.html
 
 # 💻 Tech Stack:
@@ -38,6 +45,7 @@ Custom desktop system for managing logistics operations, improving workflow effi
 
 ### 🖥️ Frameworks & Libraries
 ![Tkinter](https://img.shields.io/badge/tkinter-%23007ACC.svg?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=python&logoColor=black)
 
 ### 🗄️ Databases
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
