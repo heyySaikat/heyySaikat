@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-Full-stack developer focused on building real-world, production-ready applications. Experienced in developing business software, web platforms, and desktop systems with clean architecture and practical problem-solving. Actively seeking opportunities to contribute, learn, and grow as a software developer.
+Full-stack developer focused on building real-world, production-ready applications. Experienced in developing business software, web platforms, and desktop systems with clean architecture and practical problem-solving. <br>Actively seeking opportunities to contribute, learn, and grow as a software developer.
 
 # 🚀 Featured Projects
 
