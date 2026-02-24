@@ -58,8 +58,8 @@ Custom logistics management desktop system to streamline operations, record trac
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 # 🎯 Current Focus
@@ -75,12 +75,6 @@ Custom logistics management desktop system to streamline operations, record trac
 - Experience working on real business requirements  
 - Strong focus on clean UI and practical functionality  
 - Fast learner with strong problem-solving mindset
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heyySaikat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-</p>
 
 # 📫 Contact
 
