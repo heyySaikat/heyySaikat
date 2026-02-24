@@ -9,7 +9,6 @@ Visit my portfolio to explore my projects and work:
 
 ### 💎 Jewellery Billing & Inventory System
 Desktop software built with Python and Tkinter for real-world jewellery shop operations. Handles billing, stock management, customer records, and GST invoice generation.
-🔗 https://heyysaikat.in
 
 ### 🌐 Business Website for H2O The MultiGym
 Designed and developed a responsive business website with modern UI, optimized performance, and mobile-first design.
