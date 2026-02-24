@@ -32,25 +32,25 @@ Custom logistics management desktop system to streamline operations, record trac
 
 # 💻 Tech Stack:
 
-👨‍💻 Languages
+👨‍💻 Languages : 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-🖥️ Frameworks & Libraries
+🖥️ Frameworks & Libraries : 
 ![Tkinter](https://img.shields.io/badge/tkinter-%23007ACC.svg?style=flat&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=python&logoColor=black)
 
-🗄️ Databases
+🗄️ Databases : 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-🎨 UI/UX & Design
+🎨 UI/UX & Design : 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-⚙️ Tools & Environment
+⚙️ Tools & Environment : 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -71,7 +71,7 @@ Custom logistics management desktop system to streamline operations, record trac
 - Fast learner with strong problem-solving mindset
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=heyySaikat)
+![](https://github-readme-stats.vercel.app/api?username=heyySaikat&theme=dark&hide_border=true&show_icons=true&icon_color=58A6FF)
 
 # 📫 Contact
 
