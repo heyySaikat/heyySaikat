@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Saikat Debnath</h1>
+<h3 align="center">Full-Stack Developer building real-world business software and applications</h3>
+
+<p align="center">
+  <a href="https://heyysaikat.in"><strong>Portfolio</strong></a> •
+  <a href="https://linkedin.com/in/heyySaikat"><strong>LinkedIn</strong></a>
+</p>
+
 # 💫 About Me:
 Full-stack developer focused on building real-world, production-ready applications. Experienced in developing business software, web platforms, and desktop systems with clean architecture and practical problem-solving. Actively seeking opportunities to contribute, learn, and grow as a software developer.
 
@@ -9,12 +17,15 @@ Visit my portfolio to explore my projects and work:
 
 ### 💎 Jewellery Billing & Inventory System
 Desktop software built with Python and Tkinter for real-world jewellery shop operations. Handles billing, stock management, customer records, and GST invoice generation.
+🔗 Project Page: https://heyysaikat.in/djm.html
 
 ### 🌐 Business Website for H2O The MultiGym
 Designed and developed a responsive business website with modern UI, optimized performance, and mobile-first design.
+🔗 Website Link: https://h2othemultigym.in/
 
 ### 📦 Logistics Management System
 Custom desktop system for managing logistics operations, improving workflow efficiency and record management.
+🔗 Project Page: https://heyysaikat.in/ae.html
 
 # 💻 Tech Stack:
 
@@ -44,6 +55,13 @@ Custom desktop system for managing logistics operations, improving workflow effi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
+# 🎯 Current Focus
+
+- Building full-stack web and desktop applications  
+- Improving backend architecture and database design  
+- Learning advanced JavaScript and modern web development  
+- Preparing for software developer roles (2026 placements)
+
 # ⚡ What I Bring
 
 - Ability to build complete software from scratch to deployment  
@@ -59,6 +77,10 @@ Custom desktop system for managing logistics operations, improving workflow effi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyySaikat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heyySaikat)
+# 📫 Contact
+
+- Portfolio: https://heyysaikat.in  
+- LinkedIn: https://linkedin.com/in/heyySaikat  
+- Email: heyysaikat@gmail.com
+
 
