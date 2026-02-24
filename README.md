@@ -71,12 +71,14 @@ Custom logistics management desktop system to streamline operations, record trac
 - Fast learner with strong problem-solving mindset
 
 # 📊 GitHub Stats:
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyySaikat&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![Saikat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heyySaikat&show_icons=true&theme=dark&hide_border=true)
 
 # 📫 Contact
 
-- Portfolio: </t>https://heyysaikat.in  
-- LinkedIn: </t>https://linkedin.com/in/heyySaikat  
-- Email: </t>heyysaikat@gmail.com
+<p>
+  🌐 <strong>Portfolio:</strong> <a href="https://heyysaikat.in">heyysaikat.in</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/heyySaikat">linkedin.com/in/heyySaikat</a><br>
+  📧 <strong>Email:</strong> <a href="mailto:heyysaikat@gmail.com">heyysaikat@gmail.com</a>
+</p>
 
 
