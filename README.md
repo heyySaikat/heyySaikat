@@ -30,31 +30,37 @@ Custom logistics management desktop system to streamline operations, record trac
 
 🔗 Project Page: https://heyysaikat.in/ae.html
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-👨‍💻 Languages : 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-🖥️ Frameworks & Libraries : 
-![Tkinter](https://img.shields.io/badge/tkinter-%23007ACC.svg?style=flat&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=python&logoColor=black)
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-🗄️ Databases : 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-🎨 UI/UX & Design : 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-⚙️ Tools & Environment : 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+### 🎨 Design & Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 # 🎯 Current Focus
 
@@ -70,8 +76,11 @@ Custom logistics management desktop system to streamline operations, record trac
 - Strong focus on clean UI and practical functionality  
 - Fast learner with strong problem-solving mindset
 
-# 📊 GitHub Stats:
-![Saikat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heyySaikat&show_icons=true&theme=dark&hide_border=true)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heyySaikat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+</p>
 
 # 📫 Contact
 
