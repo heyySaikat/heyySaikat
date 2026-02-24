@@ -1,12 +1,32 @@
 # 💫 About Me:
 Full-stack developer focused on building real-world, production-ready applications. Experienced in developing business software, web platforms, and desktop systems with clean architecture and practical problem-solving. Actively seeking opportunities to contribute, learn, and grow as a software developer.
 
+# 🌐 Portfolio
+Visit my portfolio to explore my projects and work:
+🔗 https://heyysaikat.in
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyySaikat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heyySaikat)
+# 🚀 Featured Projects
+
+### 💎 Jewellery Billing & Inventory System
+Desktop software built with Python and Tkinter for real-world jewellery shop operations. Handles billing, stock management, customer records, and GST invoice generation.
+🔗 https://heyysaikat.in
+
+### 🌐 Business Website for H2O The MultiGym
+Designed and developed a responsive business website with modern UI, optimized performance, and mobile-first design.
+
+### 📦 Logistics Management System
+Custom desktop system for managing logistics operations, improving workflow efficiency and record management.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+# ⚡ What I Bring
+
+- Ability to build complete software from scratch to deployment  
+- Experience working on real business requirements  
+- Strong focus on clean UI and practical functionality  
+- Fast learner with strong problem-solving mindset
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heyySaikat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heyySaikat&theme=dark&hide_border=false)<br/>
@@ -14,4 +34,7 @@ Full-stack developer focused on building real-world, production-ready applicatio
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyySaikat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heyySaikat)
 
